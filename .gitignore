@@ -1,0 +1,7 @@
+# Build folder
+/build
+
+#other file extensions
+*.spec
+*.json
+*.txt
