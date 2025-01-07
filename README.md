@@ -1,14 +1,10 @@
-# Float It
+# Comma
 
-[Float It Demo](./demos/float-it.mp4)
-Float It (Simple Version)
-
-[Float It (Advanced) Demo](./demos/float-it_advanced.mp4)
-Float It (Advanced Version)
+[Comma Demo](./Comma_Demo.mp4)
 
 ## Overview
 
-The Float It App is a user-friendly and efficient task management tool designed to keep your goals in sight at all times. Built with Python and PyQt5, it enables users to effortlessly create, manage, and organize tasks on-the-go. 
+The Comma App is a user-friendly and efficient task management tool designed to keep your goals in sight at all times. Built with Python and PyQt5, it enables users to effortlessly create, manage, and organize tasks on-the-go.
 
 Key features include:
 
@@ -21,7 +17,7 @@ The app supports both light and dark themes while offering functionalities for i
 ## Project Documents
 
 - [**Contributing Guidelines**](CONTRIBUTING.md)
-- [**Code of Conduct**](CODE_OF_CONDUCT.md)
+- [__Code of Conduct__](CODE_OF_CONDUCT.md)
 - [**License**](LICENSE)
 
 ## Features
@@ -54,8 +50,3 @@ This project is licensed under the MIT License - see the [License](./LICENSE) fi
 
 - [PyQt5 Documentation](https://doc.qt.io/qtforpython-5/contents.html)
 - [Python Documentation](https://www.python.org/doc)
-
-## Icon Authors
-
-- Trash Icon by [Midev]('https://www.flaticon.com/authors/midev')
-- Theme Icon by [JessiGue]('https://www.flaticon.com/authors/jessigue')
