@@ -1,7 +1,8 @@
 # Build folder
 /build
 
+# Dist folder
+/dist
+
 #other file extensions
-*.spec
-*.json
-*.txt
+.spec
