@@ -1,6 +1,8 @@
 # Comma - Your Always-On Desktop Task Manager 📝
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)![License](https://img.shields.io/badge/license-MIT-green.svg)![Python](https://img.shields.io/badge/python-3.x-yellow.svg)A lightweight, always-visible desktop task management application built with Python and PyQt5. Keep your tasks in sight, stay organized, and never miss a deadline.
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)  ![License](https://img.shields.io/badge/license-MIT-green.svg)  ![Python](https://img.shields.io/badge/python-3.x-yellow.svg)
+
+A lightweight, always-visible desktop task management application built with Python and PyQt5. Keep your tasks in sight, stay organized, and never miss a deadline.
 
 ## ✨ Key Features
 
@@ -34,6 +36,7 @@ pip install -r requirements.txt
 
 # 4. Run the build script
 python build_script.py
+
 ```
 
 ### Running the Application
