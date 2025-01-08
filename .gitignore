@@ -5,4 +5,5 @@
 /dist
 
 #other file extensions
-.spec
+*.spec
+*.json
