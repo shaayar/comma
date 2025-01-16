@@ -7,3 +7,5 @@
 #other file extensions
 *.spec
 *.json
+
+/comma/node_modules

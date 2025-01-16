@@ -338,7 +338,7 @@ class ToDoApp(QMainWindow):
         self.setup_task_list(layout)
         
         # Configure window
-        self.setWindowTitle("Enhanced Todo")
+        self.setWindowTitle("Comma")
         self.apply_theme()
         
         # Restore or center window
